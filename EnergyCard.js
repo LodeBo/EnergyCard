@@ -1,11 +1,11 @@
 /*!
- * 🟢 EnergyCard 1.2.0 (Sections Dashboard Update)
+ * 🟢 EnergyCard 1.3.0 (Sections Dashboard Update)
  * Multi-segment donut (pizza/taart) voor Home Assistant
  */
 
 (() => {
   const TAG = "energy-card";
-  const VERSION = "1.2.0";
+  const VERSION = "1.3.0";
 
   class EnergyCard extends HTMLElement {
     constructor() {
