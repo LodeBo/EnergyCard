@@ -1,5 +1,5 @@
-{
+ergyCard{
   "name": "EnergyCard",
   "render_readme": true,
-  "filename": "energycard.js"
+  "filename": "EnergyCard.js"
 }
