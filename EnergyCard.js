@@ -1,11 +1,11 @@
 /*!
- * 🟢 EnergyCard 1.1.0 (Compact Legend Fix)
+ * 🟢 EnergyCard 1.5.0 (Compact Legend Fix)
  * Multi-segment donut (pizza/taart) voor Home Assistant
  */
 
 (() => {
   const TAG = "energy-card";
-  const VERSION = "1.1.0";
+  const VERSION = "1.5.0";
 
   class EnergyCard extends HTMLElement {
     constructor() {
